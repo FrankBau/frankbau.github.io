@@ -64,3 +64,8 @@ This is my random extended memory (REM)
 - [Kalman Filter Tutorial](https://www.kalmanfilter.net/)
 - [Kryptografie verständlich (Paar, Pelzl)](https://crypto-textbook.de/)
   
+# Miscellaneous
+
+- [HP-41 Programmable Calculator](http://www.hp41.org/)
+- [The Museum of HP Calculators](https://www.hpmuseum.org/)
+
