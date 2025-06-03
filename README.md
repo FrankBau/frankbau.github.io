@@ -46,10 +46,14 @@ This is my random extended memory (REM)
 # Systems
 
 - [STM32 Wiki](https://wiki.st.com/stm32mcu/)
+- [STM32C0 Register-Level Guide](https://github.com/FrankBau/stm32c0)
 - [Bare-metal C programming on ARM (ARMv7A)](https://github.com/umanovskis/baremetal-arm/)
+- [stm32mp1-baremetal](https://github.com/4ms/stm32mp1-baremetal)
 - [ARM® Cortex™-A Series Programmer's Guide v4](https://developer.arm.com/documentation/den0013/d)
 
-# Algorithms
+# Algorithms & Theroretical Computer Science
 
+- [NLogSpace Playlist](https://www.youtube.com/channel/UCMWYg3eBFp5bbqjlllUku_w)
 - [Kalman Filter Tutorial](https://www.kalmanfilter.net/)
+- [Kryptografie verständlich (Paar, Pelzl)](https://crypto-textbook.de/)
   
