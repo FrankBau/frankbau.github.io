@@ -27,6 +27,7 @@ This is my random extended memory (REM)
   
 ## Compiler and Linker
 
+- [Introduction to Compilers and Language Design](https://www.nd.edu/~dthain/compilerbook/)
 - [Beginner’s Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
   
 # Hardware
